@@ -1,0 +1,15 @@
+User-agent: Googlebot
+Disallow: /wp-json/      # Блокирует API (частая причина нагрузки)
+Disallow: /?s=           # Поиск по сайту (создает тяжелые запросы к БД)
+Disallow: /*?            # Блокирует любые URL с параметрами (фильтры, сортировки)
+Disallow: /wp-admin/     # не индексировать область панели управления WordPress
+Disallow: /xmlrpc.php    # Часто атакуется, лучше закрыть
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-includes/*.js
+Allow: /wp-includes/*.css
