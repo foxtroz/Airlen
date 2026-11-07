@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ОАО «Российская Авиакомпания ЭРЛЕН»</title>
-    <link href="https://foxtroz.github.io/Airlen/feed.xml" rel="self" />
-    <link href="https://foxtroz.github.io/Airlen" />
+    <link href="https://github.com/foxtroz/feed.xml" rel="self" />
+    <link href="https://github.com/foxtroz" />
     <updated>2026-11-04T16:51:14+03:00</updated>
     <author>
         <name>Николай Кузнецов</name>
     </author>
-    <id>https://foxtroz.github.io/Airlen</id>
+    <id>https://github.com/foxtroz</id>
 
     <entry>
         <title>Проект развития Санкт-Петербурга</title>
         <author>
             <name>Николай Кузнецов</name>
         </author>
-        <link href="https://foxtroz.github.io/Airlen/proekt-razvitiya-sankt-peterburga.html"/>
-        <id>https://foxtroz.github.io/Airlen/proekt-razvitiya-sankt-peterburga.html</id>
+        <link href="https://github.com/foxtroz/proekt-razvitiya-sankt-peterburga.html"/>
+        <id>https://github.com/foxtroz/proekt-razvitiya-sankt-peterburga.html</id>
 
         <updated>2026-11-04T16:49:48+03:00</updated>
             <summary type="html">
