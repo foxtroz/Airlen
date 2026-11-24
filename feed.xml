@@ -3,7 +3,7 @@
     <title>Lenta.ru</title>
     <link href="https://foxtroz.github.io/Airlen/feed.xml" rel="self" />
     <link href="https://foxtroz.github.io/Airlen" />
-    <updated>2026-11-18T16:28:27+03:00</updated>
+    <updated>2026-11-24T14:25:45+03:00</updated>
     <author>
         <name>Николай Кузнецов</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://foxtroz.github.io/Airlen/belki-dopolnitelno/"/>
         <id>https://foxtroz.github.io/Airlen/belki-dopolnitelno/</id>
+            <category term="Новости"/>
 
         <updated>2026-11-18T16:23:00+03:00</updated>
             <summary></summary>
